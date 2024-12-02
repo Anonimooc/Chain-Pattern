@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chain Pattern", "Chain Pattern.csproj", "{CDFFA4F5-FB19-43D7-A370-56187980E532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFFA4F5-FB19-43D7-A370-56187980E532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFFA4F5-FB19-43D7-A370-56187980E532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFFA4F5-FB19-43D7-A370-56187980E532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFFA4F5-FB19-43D7-A370-56187980E532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3328BF0D-0B13-4AD6-A0AC-26D96CDA655B}
+	EndGlobalSection
+EndGlobal
